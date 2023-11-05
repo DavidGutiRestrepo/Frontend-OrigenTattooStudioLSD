@@ -117,3 +117,14 @@ input[type="submit"] {
     width: 100px; 
     height: auto;
 }
+.boton {
+    background-color: white;
+    color: black;
+    border: 1px solid black;
+    border-radius: 50px; /* Esto hace que el botón sea semi circular */
+    padding: 10px 20px;
+    text-align: center;
+    display: inline-block;
+    text-decoration: none;
+    font-size: 16px;
+  }
